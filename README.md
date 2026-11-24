@@ -136,10 +136,3 @@ The main objective of this project is to develop an appointment slot and queue m
 - Advanced analytics and reporting
 - Role-based access control
 
-## Author
-
-**Abhishek P Hiremath**
-
-B.E. – Artificial Intelligence and Machine Learning
-
-GitHub: [Abhi-9742](https://github.com/Abhi-9742)
